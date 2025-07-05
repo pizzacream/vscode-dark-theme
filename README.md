@@ -24,11 +24,6 @@ Many “dark” themes are actually dark gray — not this one. **Pizzacream Dar
 
 ![Screenshots](./assets/screenshot.png)
 
-## 📫 Feedback & Contribution
-
-We’d love your feedback and ideas!
-👉 [Your GitHub Issues link or contact info]
-
 <br />
 
 ---
