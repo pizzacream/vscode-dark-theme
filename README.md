@@ -22,7 +22,7 @@ Many “dark” themes are actually dark gray — not this one. **Pizzacream Dar
 
 ## ✨ Screenshots
 
-![Screenshots](./assets/screenshot.png)
+![Screenshots](https://raw.githubusercontent.com/pizzacream/vscode-dark-theme/refs/heads/main/assets/screenshot.png)
 
 <br />
 
