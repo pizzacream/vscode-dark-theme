@@ -2,7 +2,7 @@
   "name": "pizzacream-dark",
   "displayName": "Pizzacream Dark",
   "description": "Dark theme for VS Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "pizzacream-studio",
   "icon": "assets/pizzacream.png",
   "repository": {
