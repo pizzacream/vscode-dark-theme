@@ -4,6 +4,7 @@
   "description": "Dark theme for VS Code",
   "version": "1.0.0",
   "publisher": "pizzacream-studio",
+  "icon": "assets/pizzacream.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/pizzacream/vscode-dark-theme.git"
